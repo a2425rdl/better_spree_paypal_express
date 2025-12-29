@@ -1,5 +1,5 @@
 # Spree PayPal Express
-
+<%=be link_to(image_tag("https://www.reynalta.com/en_US/i/btn/btn_xpressCheckout.gif"), paypal_express_url(:payment_method_id => payment_method.id), :method => :post, :id => "paypal_button") %>
 [![Build Status](https://travis-ci.org/spree-contrib/better_spree_paypal_express.svg?branch=master)](https://travis-ci.org/spree-contrib/better_spree_paypal_express)
 
 This is the official Paypal Express extension for Spree. 
