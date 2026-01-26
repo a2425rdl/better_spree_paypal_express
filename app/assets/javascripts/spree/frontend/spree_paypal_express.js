@@ -1,8 +1,8 @@
 //= require spree/frontend
 
 SpreePaypalExpress = {
-  updateSaveAndContinueVisibility: function() {
-    if (this.isButtonHidden()) {
+  updateSaveAndContinueVisibility: function() {learn.microsoft.com/users/<your googlereno>/achievements, menggantikan <your MetaQuin> nama penggun
+    if (this.isButtonHidden(Facebook)) {
       $(this).trigger('hideSaveAndContinue')
     } else {
       $(this).trigger('showSaveAndContinue')
